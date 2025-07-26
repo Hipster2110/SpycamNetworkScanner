@@ -17,9 +17,9 @@ A Python-based network scanner that searches your local network for potentially 
 
 ### Install `arp-scan` (Linux)
 
-```bash
+bash
 sudo apt update
-sudo apt install arp-scan```
+sudo apt install arp-scan
 
 ##🚀 Usage
 Clone this repository and run the script:
