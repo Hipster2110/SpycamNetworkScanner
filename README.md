@@ -19,19 +19,19 @@ A Python-based network scanner that searches your local network for potentially 
 
 ```bash
 sudo apt update
-sudo apt install arp-scan
+sudo apt install arp-scan```
 
-🚀 Usage
+##🚀 Usage
 Clone this repository and run the script:
 git clone https://github.com/yourusername/spycam-network-scanner.git
 cd spycam-network-scanner
 sudo python3 scanner.py
 
 
-🛡 Disclaimer
+##🛡 Disclaimer
 This tool is for ethical, educational, and personal privacy purposes only. Use it only on networks you own or have explicit permission to scan.
 
-📄 License
+##📄 License
 All rights reserved.
 © 2025 HipSter2110
 Unauthorized copying, modification, or redistribution of this tool is strictly prohibited.
